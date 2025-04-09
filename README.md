@@ -1,8 +1,8 @@
-# 🚗 Car Sales Analysis & Price Prediction
+# Car Sales Analysis & Price Prediction
 
 This project explores and models a used car sales dataset to understand key factors influencing selling prices and to predict prices using machine learning.
 
-## 📊 Project Highlights
+## Project Highlights
 
 - ✅ Data Cleaning & Preprocessing
 - ✅ Exploratory Data Analysis (EDA)
@@ -21,14 +21,14 @@ This project explores and models a used car sales dataset to understand key fact
 | `models/` (optional) | Folder for any exported model files |
 | `README.md` | Project overview |
 
-## 📈 Technologies Used
+## Technologies Used
 
 - Python (Pandas, NumPy, Scikit-Learn, Statsmodels, Seaborn, Matplotlib)
 - Jupyter Notebook
 - Random Forest Regressor
 - Linear Regression (OLS)
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
     ```bash
@@ -43,7 +43,7 @@ This project explores and models a used car sales dataset to understand key fact
     jupyter notebook car_sales.ipynb
     ```
 
-## 📌 Future Work
+## Future Work
 
 - Try more advanced models (e.g., XGBoost, CatBoost)
 - Add interactive visualizations using Plotly or Streamlit
