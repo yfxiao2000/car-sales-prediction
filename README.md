@@ -17,8 +17,6 @@ This project explores and models a used car sales dataset to understand key fact
 |------|-------------|
 | `car_sales.ipynb` | Main Jupyter Notebook containing the full analysis |
 | `car_prices.csv`  | Cleaned dataset (if available) |
-| `plots/` (optional) | Folder to store visualizations |
-| `models/` (optional) | Folder for any exported model files |
 | `README.md` | Project overview |
 
 ## Technologies Used
